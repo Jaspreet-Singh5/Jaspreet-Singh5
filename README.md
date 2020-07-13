@@ -1,4 +1,4 @@
-# Hi, I'm Jaspreet Singh 👋🏾 👩🏾‍💻
+# Hi, I'm Jaspreet Singh 🏾‍💻
 
 <img src="https://raw.githubusercontent.com/Jaspreet-Singh5/Jaspreet-Singh5/master/Jaspreet-Singh5.png" alt="banner that says Jaspreet Singh - Full Stack Web Developer">
 
