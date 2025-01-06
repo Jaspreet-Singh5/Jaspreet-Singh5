@@ -1,6 +1,12 @@
 # Hi, I'm Jaspreet Singh
 
-| I am a fresher looking for as many opportunities as I can in order to enhance my experience. I have worked on a lot of projects especially in the fields of web development, python and android development. I have a craze for competitive programming. I am always looking for new ideas to help solve the problems around me. Recently, I have worked on some sites for the fests of our department in our college.
-Last but not the least, I am very passionate about my work and have a lot of different ideas that I can share with the management of the company hiring me and could help in their growth somehow.
+👋 Hi there! I'm Jaspreet Singh, a seasoned Software Developer. With a proven track record spanning over several roles, I bring extensive experience in full-stack development and product lifecycle management.
 
+💼 As a Senior Software Engineer at Primestone Partners LLC, I lead the development and launch of cutting-edge products, building upon my previous experience at Quantiphi and Trelos Technologies. Throughout my career, I've been instrumental in guiding cross-functional teams through multiple successful product launches.
+
+🚀 Leveraging my expertise in systems design, software infrastructure, and stakeholder management, I ensure maximum impact and efficiency in every project I undertake. My hands-on experience with MERN, MEAN and LAMP stack technologies has equipped me to tackle diverse challenges in the software development landscape.
+
+💬 As a skilled communicator and problem solver, I thrive in dynamic environments where collaboration and innovation are key. I'm passionate about leveraging technology to drive positive change and am always eager to explore new opportunities to contribute to impactful projects.
+
+🌟 Let's connect and explore how my extensive experience and skill set can add value to your team or project. I'm excited about the possibility of working together to achieve shared goals and make a meaningful impact in the world of technology.
 
